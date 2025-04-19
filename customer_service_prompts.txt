@@ -1,0 +1,2 @@
+- Generate an apology email for a delayed service.
+- Create a chatbot response to common refund questions.
