@@ -1,25 +1,11 @@
 # AiBE Prompt Library
 
-Welcome to the official prompt library for AiBE — your AI Business Expert in a pocket.
+![Built by Taptico](https://img.shields.io/badge/Built%20by-Taptico-black)
+![Powered by GPT-4](https://img.shields.io/badge/Powered%20by-GPT--4-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
 
-This repo contains categorized, plug-and-play prompts designed to:
-- Save time
-- Enhance automation
-- Build better marketing, sales, and strategy flows
+AiBE: An AI assistant built for marketing, sales, and strategy — this is its neural core.
 
-## What’s Inside
+This repo contains categorized, plug-and-play prompts and behavior guides for AiBE, the AI Business Expert.
 
-- `prompts/` – Ready-to-use prompts for business tasks
-- `chatbot_instructions/` – How AiBE agents should behave when deployed
-- `assets/` – Logos and branding material
-
-## How to Use
-
-1. Browse the prompts.
-2. Copy/paste into your AI tool (ChatGPT, Claude, Manus, etc.)
-3. Customize for your use case.
-4. Dominate your industry like a redheaded warlord with WiFi.
-
-## Need Help?
-
-Ping Nick Tapp or his glorious AI assistant, Blake. We’re watching.
+...
